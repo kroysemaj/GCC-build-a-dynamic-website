@@ -1,24 +1,31 @@
-body{
-  background-color: blanchedalmond;
-  color: gray;
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-h1 {
-  font-size: 36px;
-  font-family: Helvetica Narrow, sans-serif;
-  font-weight: lighter;
+#container {
+  width: 960px;
 }
 
-div{
-  font-family: Helvetica Narrow, sans-serif;
+#header {
+  background-color: cadetblue;
+  height: 200px;
 }
 
-.category {
-  font-weight: bold;
+#content {
+  background-color: violet;
+  width: 75%;
+  height: 600px;
+  float: left;
 }
 
-#subheading {
-  font-size: 28px;
-  font-family: Helvetica Narrow, sans-serif;
-  font-weight: lighter;
+#sidebar {
+  background-color: limegreen;
+  width: 25%;
+  height: 600px;
+  float: right;
+}
+
+#footer {
+  height: 60px;
+  background-color: palegoldenrod;
 }
