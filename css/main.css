@@ -1,0 +1,24 @@
+body{
+  background-color: blanchedalmond;
+  color: gray;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: Helvetica Narrow, sans-serif;
+  font-weight: lighter;
+}
+
+div{
+  font-family: Helvetica Narrow, sans-serif;
+}
+
+.category {
+  font-weight: bold;
+}
+
+#subheading {
+  font-size: 28px;
+  font-family: Helvetica Narrow, sans-serif;
+  font-weight: lighter;
+}
